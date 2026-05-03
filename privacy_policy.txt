@@ -1,0 +1,31 @@
+Privacy Policy for Girigo
+Effective Date: May 3, 2026
+
+BitTruth ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how our mobile application, Girigo (the "App"), handles information.
+
+1. Information We Collect
+Camera and Microphone Access
+The App requires access to your device's camera and microphone to provide its core video recording functionality.
+
+Purpose: These permissions are used only when you record a video within the App.
+Privacy: No audio or video data is transmitted to our servers or any third parties. All recordings are stored locally on your device.
+Local Storage
+The App saves recorded video files directly to your device's local storage. We do not have access to these files, and they are not backed up to any cloud service provided by us.
+
+2. Third-Party Services (Advertising)
+We use Google AdMob to show advertisements in the App.
+
+Personalization: AdMob may collect and use your device's advertising ID to show you relevant ads.
+GDPR: For users in the European Economic Area (EEA), we provide a consent form through the Google User Messaging Platform (UMP) to manage your privacy preferences.
+3. Data Security
+We do not collect any personal identity information (such as names, emails, or phone numbers). Because your recordings are stored locally, you are responsible for their security and backup.
+
+4. Children's Privacy
+The App is not intended for use by children under the age of 13. We do not knowingly collect information from children.
+
+5. Changes to This Policy
+We may update this Privacy Policy periodically. We will notify you of any changes by updating the "Effective Date" at the top of this document.
+
+6. Contact Us
+If you have questions regarding this policy, please contact us at: Email: 
+bittruth1solutions@gmail.com
