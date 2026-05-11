@@ -1,31 +1,37 @@
-Privacy Policy for Girigo
-Effective Date: May 3, 2026
+Privacy Policy: If Wishes Could Kill (Girigo)
+Effective Date: May 12, 2026
 
-BitTruth ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how our mobile application, Girigo (the "App"), handles information.
+Welcome to Girigo, the official interactive experience for the "If Wishes Could Kill" series. Your privacy and the sanctity of your rituals are important to us.
 
 1. Information We Collect
-Camera and Microphone Access
-The App requires access to your device's camera and microphone to provide its core video recording functionality.
+To manifest your rituals in the void, we collect:
 
-Purpose: These permissions are used only when you record a video within the App.
-Privacy: No audio or video data is transmitted to our servers or any third parties. All recordings are stored locally on your device.
-Local Storage
-The App saves recorded video files directly to your device's local storage. We do not have access to these files, and they are not backed up to any cloud service provided by us.
+Account Information: Your name, email, and profile data provided during Google Sign-In.
+User Generated Content (UGC): Videos recorded via the ritual camera and captions you provide.
+Interaction Data: Likes, follows, and comments performed within the app.
+Technical Data: Approximate location (via IP for country detection), device identifiers (for notifications and ads), and app performance logs.
 
-2. Third-Party Services (Advertising)
-We use Google AdMob to show advertisements in the App.
+2. How We Use Your Data
+To provide the "If Wishes Could Kill" social ritual experience.
+To detect your approximate location for localized ritual feeds.
+To personalize the void using your chosen "Ritual Accents."
+To show relevant advertisements via Google AdMob.
 
-Personalization: AdMob may collect and use your device's advertising ID to show you relevant ads.
-GDPR: For users in the European Economic Area (EEA), we provide a consent form through the Google User Messaging Platform (UMP) to manage your privacy preferences.
-3. Data Security
-We do not collect any personal identity information (such as names, emails, or phone numbers). Because your recordings are stored locally, you are responsible for their security and backup.
+3. User Generated Content (UGC) Policy
+Girigo is a platform for raw truth. However, to maintain the sanctuary:
 
-4. Children's Privacy
-The App is not intended for use by children under the age of 13. We do not knowingly collect information from children.
+Moderation: We reserve the right to remove content that is harmful, illegal, or violates our community standards.
+Reporting: Users can flag any ritual for review using the "Report" button. Flagged content is reviewed by our moderators within 24 hours.
+Blocking: Users can block any other soul to prevent further interaction.
 
-5. Changes to This Policy
-We may update this Privacy Policy periodically. We will notify you of any changes by updating the "Effective Date" at the top of this document.
+4. Data Sharing & Third Parties
+We use trusted third-party services to sustain the void:
+
+Supabase: For database management and authentication.
+Cloudflare R2: For secure storage of your ritual manifestations.
+Google AdMob: For providing rewarded and native advertisements.
+5. Your Rights
+You may request the deletion of your account and all associated rituals at any time via the "Altar" (Profile) settings or by contacting our support team.
 
 6. Contact Us
-If you have questions regarding this policy, please contact us at: Email: 
-bittruth1solutions@gmail.com
+For any inquiries regarding the void or your data, contact us at: bittruth1solutions@gmail.com
