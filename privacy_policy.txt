@@ -1,37 +1,21 @@
-Privacy Policy: If Wishes Could Kill (Girigo)
-Effective Date: May 12, 2026
+Privacy Policy: If Wishes Could Kill (Girigo) Effective Date: May 24, 2026
 
 Welcome to Girigo, the official interactive experience for the "If Wishes Could Kill" series. Your privacy and the sanctity of your rituals are important to us.
 
-1. Information We Collect
-To manifest your rituals in the void, we collect:
+Information We Collect To manifest your rituals in the void, we collect:
+Account Information: Your name, email, and profile data provided during Google Sign-In, as well as your custom username. User Generated Content (UGC): Videos recorded via the ritual camera, captions you provide, and comments (Whispers) you leave on rituals. Interaction Data: Likes, follows, and comments performed within the app. Technical Data: Approximate location (via IP for country detection) synced upon login to categorize you into a Local Sanctuary, device identifiers (for notifications and ads), and app performance logs.
 
-Account Information: Your name, email, and profile data provided during Google Sign-In.
-User Generated Content (UGC): Videos recorded via the ritual camera and captions you provide.
-Interaction Data: Likes, follows, and comments performed within the app.
-Technical Data: Approximate location (via IP for country detection), device identifiers (for notifications and ads), and app performance logs.
+How We Use Your Data To provide the "If Wishes Could Kill" social ritual experience. To detect your approximate location for localized ritual feeds and sanctuary separation. To personalize the void using your chosen "Ritual Accents." To show relevant advertisements via Google AdMob. To send you push notifications about relevant interactions (such as likes, follows, and whispers) if you grant permission.
 
-2. How We Use Your Data
-To provide the "If Wishes Could Kill" social ritual experience.
-To detect your approximate location for localized ritual feeds.
-To personalize the void using your chosen "Ritual Accents."
-To show relevant advertisements via Google AdMob.
+User Generated Content (UGC) Policy & Moderation Girigo is a platform for raw truth. However, to maintain the sanctuary and ensure a safe environment:
 
-3. User Generated Content (UGC) Policy
-Girigo is a platform for raw truth. However, to maintain the sanctuary:
+Automated Filtering: All usernames, video captions, and comments are automatically checked against a server-side blocklist for harmful, offensive, or illegal keywords before they can be posted. Moderation & Shadow-banning: We reserve the right to remove content or restrict accounts that violate our community standards. Administrators may "shadow-ban" violating users, rendering their content invisible to the rest of the community while they remain unaware. Reporting: Users can flag any ritual or user for review using the "Report" button. Flagged content is reviewed by our moderators within 24 hours. Blocking: Users can block any other soul to prevent further interaction and hide their content.
 
-Moderation: We reserve the right to remove content that is harmful, illegal, or violates our community standards.
-Reporting: Users can flag any ritual for review using the "Report" button. Flagged content is reviewed by our moderators within 24 hours.
-Blocking: Users can block any other soul to prevent further interaction.
+Data Sharing & Third Parties We use trusted third-party services to sustain the void:
+Supabase: For database management, user authentication, and secure edge functions. Cloudflare R2: For secure storage of your ritual manifestations. Google AdMob: For providing rewarded and native advertisements.
 
-4. Data Sharing & Third Parties
-We use trusted third-party services to sustain the void:
+Your Rights You may request the deletion of your account and all associated rituals at any time via the "Altar" (Profile) settings or by contacting our support team.
 
-Supabase: For database management and authentication.
-Cloudflare R2: For secure storage of your ritual manifestations.
-Google AdMob: For providing rewarded and native advertisements.
-5. Your Rights
-You may request the deletion of your account and all associated rituals at any time via the "Altar" (Profile) settings or by contacting our support team.
+Contact Us For any inquiries regarding the void or your data, contact us at: 
+bittruth1solutions@gmail.com
 
-6. Contact Us
-For any inquiries regarding the void or your data, contact us at: bittruth1solutions@gmail.com
