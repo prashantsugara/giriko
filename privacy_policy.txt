@@ -1,21 +1,65 @@
-Privacy Policy: If Wishes Could Kill (Girigo) Effective Date: May 24, 2026
+Privacy Policy: If Wishes Could Kill (Girigo)
+Effective Date: May 24, 2026 Last Updated: June 13, 2026
 
-Welcome to Girigo, the official interactive experience for the "If Wishes Could Kill" series. Your privacy and the sanctity of your rituals are important to us.
+Welcome to Girigo, the official interactive experience for the "If Wishes Could Kill" series. Your privacy and the sanctity of your rituals are important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
 
-Information We Collect To manifest your rituals in the void, we collect:
-Account Information: Your name, email, and profile data provided during Google Sign-In, as well as your custom username. User Generated Content (UGC): Videos recorded via the ritual camera, captions you provide, and comments (Whispers) you leave on rituals. Interaction Data: Likes, follows, and comments performed within the app. Technical Data: Approximate location (via IP for country detection) synced upon login to categorize you into a Local Sanctuary, device identifiers (for notifications and ads), and app performance logs.
+1. Data Controller Contact Information
+Data Controller: Bittruth / Prashant Sugara If you have any questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us at:
 
-How We Use Your Data To provide the "If Wishes Could Kill" social ritual experience. To detect your approximate location for localized ritual feeds and sanctuary separation. To personalize the void using your chosen "Ritual Accents." To show relevant advertisements via Google AdMob. To send you push notifications about relevant interactions (such as likes, follows, and whispers) if you grant permission.
+Email: [Insert your contact email, e.g., 
+support@girigo.app
+]
+2. Categories of Personal Data We Collect
+To manifest your rituals in the void, we collect the following categories of personal information:
 
-User Generated Content (UGC) Policy & Moderation Girigo is a platform for raw truth. However, to maintain the sanctuary and ensure a safe environment:
+Identifiers/Account Information: Your name, email address, profile picture (provided via Google Sign-In), and your custom Girigo username.
+User Generated Content (UGC): Videos recorded via the ritual camera, captions you provide, and comments ("Whispers") you leave.
+Interaction Data: Likes, follows, and interactions performed within the app.
+Geolocation Data: Approximate location (via IP for country/city detection) to categorize you into a Local Sanctuary.
+Technical & Usage Data: Device identifiers, crash logs, and app performance metrics.
+3. Why We Process Your Personal Data (Purpose)
+We collect and process your personal data for the following specific purposes:
 
-Automated Filtering: All usernames, video captions, and comments are automatically checked against a server-side blocklist for harmful, offensive, or illegal keywords before they can be posted. Moderation & Shadow-banning: We reserve the right to remove content or restrict accounts that violate our community standards. Administrators may "shadow-ban" violating users, rendering their content invisible to the rest of the community while they remain unaware. Reporting: Users can flag any ritual or user for review using the "Report" button. Flagged content is reviewed by our moderators within 24 hours. Blocking: Users can block any other soul to prevent further interaction and hide their content.
+To Provide Core Services: Enabling you to record rituals, post content, and interact with the "If Wishes Could Kill" social experience.
+Localization: Using approximate location to separate users into localized ritual feeds (Sanctuaries).
+Personalization: Saving your preferences, such as your chosen "Ritual Accents".
+Advertising: To show relevant, personalized, or non-personalized advertisements via Google AdMob to keep the app free.
+Communication: To send you push notifications about relevant interactions (likes, follows, whispers) if you grant permission.
+4. Third-Party Sharing and Selling of Data
+We do not sell your personal data to third parties for money. However, under certain laws like the California Consumer Privacy Act (CCPA), sharing data for targeted advertising may be considered a "sale" or "share." We share your data with the following categories of third parties:
 
-Data Sharing & Third Parties We use trusted third-party services to sustain the void:
-Supabase: For database management, user authentication, and secure edge functions. Cloudflare R2: For secure storage of your ritual manifestations. Google AdMob: For providing rewarded and native advertisements.
+Service Providers: Cloud storage and database providers (e.g., Supabase, Cloudflare R2, Firebase) used strictly to host your UGC and account data.
+Advertising Partners: Google AdMob, which collects device identifiers and usage data to serve advertisements.
+Analytics Providers: Crashlytics or similar tools to monitor app stability.
+5. Data Retention Practices
+We retain your personal data only for as long as necessary to fulfill the purposes outlined in this policy:
 
-Your Rights You may request the deletion of your account and all associated rituals at any time via the "Altar" (Profile) settings or by contacting our support team.
+Account Data: Retained as long as your account is active.
+User Generated Content: Retained until you delete the video/comment or delete your account.
+Logs & Technical Data: Typically deleted or anonymized within 90 days. When data is no longer needed, it is securely deleted or anonymized.
+6. Your Rights Under GDPR (For EU/UK Users)
+If you are located in the European Economic Area (EEA) or the UK, you have the following rights regarding your personal data:
 
-Contact Us For any inquiries regarding the void or your data, contact us at: 
-bittruth1solutions@gmail.com
+Right of Access: You have the right to request a copy of the personal data we hold about you.
+Right to Rectification (Correction): You have the right to request that we correct any inaccurate or incomplete personal data.
+Right to Erasure (Deletion): You have the right to request that we delete your personal data (the "right to be forgotten").
+Right to Restrict/Object to Processing: You can object to how we use your data, especially for direct marketing or advertising.
+Right to Data Portability: You can request your data in a structured, commonly used format.
+To exercise any of these rights, please contact us at the email address provided in Section 1.
 
+7. Your Rights Under CCPA and US State Laws (For US Users)
+If you are a resident of California or other applicable US states, you have specific rights regarding your personal information:
+
+Right to Know: You have the right to request information about the categories and specific pieces of personal data we have collected, the sources, the business purpose, and the categories of third parties with whom it is shared.
+Right to Delete: You have the right to request the deletion of your personal data.
+Right to Correct: You have the right to request correction of inaccurate data.
+Right to Know About Sales/Sharing: You have the right to know whether your personal data is sold or shared and to whom.
+Right to Opt-Out of Sale or Sharing: You have the right to direct us not to sell or share your personal information. You can exercise this right by adjusting your ad preferences in the app settings or opting out of personalized ads via your device settings.
+Non-Discrimination: We will not discriminate against you for exercising your privacy rights.
+To exercise your US state privacy rights, please contact us at the email address provided in Section 1.
+
+8. User Generated Content (UGC) Policy & Moderation
+Girigo is a platform for raw truth. However, any content that violates our Terms of Service (such as illegal content, hate speech, or severe abuse) will be removed, and accounts may be suspended.
+
+9. Updates to this Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date at the top. You are advised to review this Privacy Policy periodically for any changes.
